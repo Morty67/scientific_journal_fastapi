@@ -148,3 +148,5 @@ cython_debug/
 
 .data
 liba_db.db
+/scientific_db.db
+scientific_db.db
